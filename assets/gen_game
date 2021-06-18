@@ -1,0 +1,154 @@
+# background
+7
+assets/img/map1.jpg
+assets/img/map2.jpg
+assets/img/map3.png
+assets/img/map4.png
+assets/img/map5.png
+assets/img/map6.png
+assets/img/1.png
+# menu
+5
+assets/img/game_menu.png
+assets/img/inventory.png
+assets/img/shop.png
+assets/img/cursor.png
+assets/img/htp.png
+# button
+8
+assets/img/default_button.png
+assets/img/default_button.png
+assets/img/default_button.png
+assets/img/arrow.png
+assets/img/slider.png
+assets/img/slider_button.png
+assets/img/arrow.png
+assets/img/htp_button.png
+# foes
+1
+assets/img/knight.jpg
+life:100
+pos.x:350
+pos.y:180
+rect.left:0
+rect.top:0
+rect.width:46
+rect.height:48
+# foes
+1
+assets/img/knight.jpg
+life:100
+pos.x:400
+pos.y:300
+rect.left:0
+rect.top:0
+rect.width:46
+rect.height:48
+# foes
+1
+assets/img/knight.jpg
+life:100
+pos.x:400
+pos.y:250
+rect.left:0
+rect.top:0
+rect.width:46
+rect.height:48
+# foes
+1
+assets/img/knight.jpg
+life:100
+pos.x:350
+pos.y:250
+rect.left:0
+rect.top:0
+rect.width:46
+rect.height:48
+# foes
+1
+assets/img/knight.jpg
+life:100
+pos.x:350
+pos.y:100
+rect.left:0
+rect.top:0
+rect.width:46
+rect.height:48
+
+# foes
+2
+assets/img/knight.jpg
+life:100
+pos.x:225
+pos.y:100
+rect.left:0
+rect.top:0
+rect.width:46
+rect.height:48
+# foes
+2
+assets/img/knight.jpg
+life:100
+pos.x:350
+pos.y:100
+rect.left:0
+rect.top:0
+rect.width:46
+rect.height:48
+# foes
+2
+assets/img/knight.jpg
+life:100
+pos.x:350
+pos.y:200
+rect.left:0
+rect.top:0
+rect.width:46
+rect.height:48
+
+# player
+1
+assets/img/knight.jpg
+life:200
+pos.x:360
+pos.y:265
+rect.left:140
+rect.top:0
+rect.width:46
+rect.height:48
+# inventory
+8
+assets/img/items/key.png
+assets/img/items/wood_ring.png
+assets/img/items/silver_ring.png
+assets/img/items/gold_ring.png
+assets/img/items/sword.png
+assets/img/items/shield.png
+assets/img/items/quest_book.png
+assets/img/back_button.png
+# intro
+1
+assets/img/castle_intro.png
+pos.x:0
+pos.y:0
+rect.left:0
+rect.top:0
+rect.width:800
+rect.height:600
+# portal
+1
+assets/img/portal.png
+pos.x:0
+pos.y:0
+rect.left:0
+rect.top:0
+rect.width:70
+rect.height:70
+# game
+xp:600
+state:7
+difficulty:1
+background_index:0
+nb_dial_c:0
+nb_dial_f:0
+old_state:1

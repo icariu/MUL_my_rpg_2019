@@ -1,0 +1,66 @@
+# nb items
+8
+# key
+pos.x:323
+pos.y:245
+rect.left:0
+rect.top:0
+rect.width:100
+rect.height:110
+activate:0
+# wood_ring
+pos.x:77
+pos.y:352
+rect.left:0
+rect.top:0
+rect.width:100
+rect.height:110
+activate:0
+# silver_ring
+pos.x:77
+pos.y:245
+rect.left:0
+rect.top:0
+rect.width:100
+rect.height:110
+activate:0
+# gold_ring
+pos.x:77
+pos.y:137
+rect.left:0
+rect.top:0
+rect.width:100
+rect.height:110
+activate:0
+# sword
+pos.x:200
+pos.y:137
+rect.left:0
+rect.top:0
+rect.width:100
+rect.height:110
+activate:0
+# shield
+pos.x:200
+pos.y:245
+rect.left:0
+rect.top:0
+rect.width:100
+rect.height:110
+activate:0
+# quest_book
+pos.x:323
+pos.y:137
+rect.left:0
+rect.top:0
+rect.width:100
+rect.height:110
+activate:1
+# back_button
+pos.x:681
+pos.y:500
+rect.left:0
+rect.top:0
+rect.width:100
+rect.height:110
+activate:0

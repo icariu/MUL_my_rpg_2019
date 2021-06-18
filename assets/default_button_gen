@@ -1,0 +1,39 @@
+# nb_button =
+8
+# rect pos =
+0
+0
+270
+90
+# pos_button 1 = (x/y)
+268:73
+# rect_button 1 = (top/left/width/height)
+0:0:270:90
+# pos_button 2 = (x/y)
+268:427
+# rect_button 2 = (top/left/width/height)
+0:0:270:90
+# pos_button 3 = (x/y)
+268:253
+# rect_button 3 = (top/left/width/height)
+0:0:270:90
+# pos_button 4 = (x/y)
+550:300
+# rect_button 4 = (top/left/width/height)
+0:0:95:95
+# pos_button 5 = (x/y)
+196:240
+# rect_button 5 = (top/left/width/height)
+0:0:408:28
+# pos_button 6 = (x/y)
+260:223
+# rect_button 6 = (top/left/width/height)
+0:0:57:57
+# pos_button 7 = (x/y)
+250:300
+# rect_button 7 = (top/left/width/height)
+0:0:95:95
+# pos_button 8 = (x/y)
+681:500
+# rect_button 8 = (top/left/width/height)
+0:0:100:100
